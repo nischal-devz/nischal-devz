@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\nisch\OneDrive\Desktop\prof.png"" width="100%" />
+  <img src="https://wallpapercave.com/wp/wp13972370.png" width="100%" />
 </p>
 
 # Hi, I'm Nischal Karmacharya 👋
